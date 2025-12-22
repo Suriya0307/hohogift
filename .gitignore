@@ -1,0 +1,12 @@
+# Rust build output
+target/
+target_tmp/
+
+# Turbo web export
+www/
+
+# Editor & OS junk
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
