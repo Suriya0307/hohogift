@@ -17,6 +17,7 @@ Play locally on the same keyboard or join friends online using a room code — e
 * [How to Play Multiplayer](#how-to-play-multiplayer)
 * [Deployment](#deployment)
 * [Project Structure](#project-structure)
+* [Screenshots](#screenshot)
 * [Use Cases](#use-cases)
 * [Why HoHoGift?](#why-hohogift)
 
@@ -236,6 +237,47 @@ hohogift/
 ```
 
 ---
+
+
+## Screenshots
+
+
+
+##  Game-Lobby 
+
+
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/39a7f27c-772f-4e2c-8962-80dfa0e5f8f2" />
+
+
+
+
+
+## Single/local mode
+
+
+
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/5512c18f-ca90-4a87-8445-1c40a231b404" />
+
+
+
+
+## Multiplayer mode 
+
+
+
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/c30963af-3c8b-42df-8939-92973314f2b5" />
+
+
+
+## Two friends are in the same room 
+
+
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/9e53d8c4-7f5e-4dcd-a420-0fc3263aba1e" />
+
+
+
+
 
 ## 🎯 Use Cases
 
