@@ -1,16 +1,6 @@
-# **HOHOGIFT 🎄 — A Christmas Maze Adventure with Real-Time Multiplayer**
+<h1 align="center">🎄 <span style="color:#ff4d4d;">HOHOGIFT</span> — <span style="color:#22c55e;">A Christmas Gift Run</span> with <span style="color:#3b82f6;">Real-Time Multiplayer</span></h1> <p align="center" style="font-size:18px;"> <span style="color:#38bdf8;">❄️ Dodge Snowballs</span> &nbsp;•&nbsp; <span style="color:#facc15;">🎁 Catch Gifts from Santa</span> &nbsp;•&nbsp; <span style="color:#a855f7;">🎮 Local & Online Co-op</span> </p> <p align="center"> <img src="https://img.shields.io/badge/Game%20Type-Arcade%20Christmas-red?style=for-the-badge" /> <img src="https://img.shields.io/badge/Multiplayer-Local%20%7C%20Online-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/Engine-Turbo-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Platform-Web-yellow?style=for-the-badge" /> </p>
 
-**Single Player • Local Co-op • Online Multiplayer via Room Codes**
-**Built with Turbo Engine • Rust • Turbo OS Real-Time Channels**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Game%20Engine-Turbo-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Language-Rust-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Multiplayer-Real--Time-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Platform-Browser%20%26%20Desktop-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Hackathon%20Ready-green?style=for-the-badge" />
-</div>
-
+Play locally on the same keyboard or join friends online using a room code — every gift counts, and survival is the real challenge.
 ---
 
 ## 📚 Table of Contents
@@ -33,6 +23,9 @@
 ---
 
 ## 🚀 Demo
+
+
+**Play with your friends  - https://hohogift-neuro.netlify.app/**
 
 🕹 **Turbo OS Live Runtime**
 
