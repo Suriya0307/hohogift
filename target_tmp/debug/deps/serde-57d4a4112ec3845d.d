@@ -1,0 +1,14 @@
+C:\Users\WIN 11\Desktop\bork-runner\\target_tmp\debug\deps\serde-57d4a4112ec3845d.d: C:\Users\WIN\ 11\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\WIN\ 11\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\WIN\ 11\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\WIN\ 11\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\WIN\ 11\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\WIN\ 11\Desktop\bork-runner\\target_tmp\debug\build\serde-170d25af167437ff\out/private.rs
+
+C:\Users\WIN 11\Desktop\bork-runner\\target_tmp\debug\deps\libserde-57d4a4112ec3845d.rlib: C:\Users\WIN\ 11\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\WIN\ 11\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\WIN\ 11\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\WIN\ 11\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\WIN\ 11\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\WIN\ 11\Desktop\bork-runner\\target_tmp\debug\build\serde-170d25af167437ff\out/private.rs
+
+C:\Users\WIN 11\Desktop\bork-runner\\target_tmp\debug\deps\libserde-57d4a4112ec3845d.rmeta: C:\Users\WIN\ 11\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\WIN\ 11\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\WIN\ 11\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\WIN\ 11\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\WIN\ 11\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\WIN\ 11\Desktop\bork-runner\\target_tmp\debug\build\serde-170d25af167437ff\out/private.rs
+
+C:\Users\WIN\ 11\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\WIN\ 11\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\WIN\ 11\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\WIN\ 11\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\WIN\ 11\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+C:\Users\WIN\ 11\Desktop\bork-runner\\target_tmp\debug\build\serde-170d25af167437ff\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\WIN 11\\Desktop\\bork-runner\\\\target_tmp\\debug\\build\\serde-170d25af167437ff\\out

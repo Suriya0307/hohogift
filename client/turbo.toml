@@ -1,0 +1,16 @@
+name = "Bork Runner"
+version = "1.0.0"
+authors = ["Turbo"]
+description = "Infinite runner as a dog with borks and a bat."
+
+[canvas]
+width = 256
+height = 144
+
+[turbo-os]
+api-url = "https://os.turbo.computer"
+
+[assets]
+background = "audio/background.mp3"
+gift = "audio/gift.mp3"
+snowball = "audio/snowball.mp3"

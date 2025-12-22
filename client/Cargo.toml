@@ -1,0 +1,20 @@
+[package]
+name = "bork-runner-client"
+version = "1.0.0"
+edition = "2021"
+
+[package.metadata.turbo]
+user = "d7e16608-8c59-4f61-a67b-8883072d0552"
+
+[dependencies]
+turbo = { version = "5.1.0", package = "turbo-genesis-sdk" }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+borsh = { version = "1.0", features = ["derive"] }
+lazy_static = "1.4"
+
+[lib]
+crate-type = ["cdylib"]
+
+[lints.rust]
+unexpected_cfgs = { level = "allow" }
