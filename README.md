@@ -56,20 +56,65 @@ It blends:
 
 ---
 
-## 🎮 Game Modes
+## 🎮 Controls & Game Modes
 
-### 🧍 Single / Local Mode
+*🧍‍♂️ Single / Local Co-op Mode (Same Keyboard)*
 
-* Play solo on one device
-* Perfect for practice or quick runs
-* No internet required
+Play together on one device using a single keyboard.
 
-### 🌐 Online Multiplayer Mode
+Both players are active at the same time and can be controlled locally.
 
-* Two players on different devices
-* Join using a **shared room code**
-* Real-time movement, gift count, and health sync
+**Controls:**
 
+Player	Keys	Action
+
+Player 1	A / D	Move Left / Right
+
+Player 2	← / →	Move Left / Right
+
+✅ In this mode:
+
+Both players share the same screen
+
+No internet connection required
+
+Great for local co-op gameplay
+
+Perfect for testing and casual play
+
+## 🌐 Online Multiplayer Mode (Room Code Based) 
+
+Play with a friend on two different devices using a shared room code.
+
+**How it works:**
+
+Player 1 clicks Create Room
+
+A unique room code is generated
+
+Player 2 enters the same room code
+
+Both players join the same live session
+
+Controls in Online Mode:
+
+**Player	Controls**
+
+Player 1 (Host) 	 A / D
+
+Player 2 (Guest)	 ← / → 
+
+✅ In online mode:
+
+Each player controls only their own character
+
+Movements sync in real time
+
+Gifts, health, and positions update live
+
+Both players see each other instantly
+
+Works across different devices
 ---
 
 ## 🕹 Core Gameplay
